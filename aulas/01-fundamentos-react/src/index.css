@@ -1,4 +1,4 @@
-/* ./src/index.css */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+body {
+    background: #121214;
+    color: var(--white)
+}
