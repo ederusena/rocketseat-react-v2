@@ -2,3 +2,7 @@ body {
     background: #121214;
     color: var(--white)
 }
+
+body, p, span, h1, h2, h3, h4, h5, html {
+    font-family: 'Roboto', sans-serif;
+}
